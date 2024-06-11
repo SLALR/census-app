@@ -20,8 +20,7 @@ devtools::install_github("SLALR/census.app")
 
 ## Example
 
-This is a basic example which shows you how to solve a common
-problem(s):
+This is a basic example which shows you how to solve a common problem:
 
 ``` r
 ## library(census.app)
