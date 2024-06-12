@@ -18,10 +18,10 @@ You can install the development version of census.app from
 devtools::install_github("SLALR/census.app")
 ```
 
-## Example
+## Example status
 
 This is a basic example which shows you how to solve a common problem -
-so we claim, that we added more commits:
+so we claim, that we added more commits and on another matter:
 
 ``` r
 ## library(census.app)
